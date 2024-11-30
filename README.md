@@ -1,2 +1,1 @@
-Simple C8 emulator. Games can be found online. Built to compile for em++, but can be changed easily.
-Requires SDL.
+Simple C8 emulator. Games can be found online. Compile with make build. Requires SDL to be installed already.
